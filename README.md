@@ -2,6 +2,8 @@
 
 ¡Bienvenido/a a mi repositorio de la materia **Introducción a la Programación y Algoritmos**! Este espacio está destinado a almacenar, organizar y documentar todos los contenidos, guías de ejercicios, proyectos y prácticas realizadas durante el cursado utilizando **Python**.
 
+Se utilizo la página www.w3schools.com para aprender y buscar la documentación de Python
+
 ---
 
 ## 📁 Estructura del Repositorio
