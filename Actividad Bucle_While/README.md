@@ -213,32 +213,3 @@ Cada actividad se resuelve en su archivo correspondiente. Por ejemplo:
 Grupo_I/ejercicio_I_1.py
 
 El código debe respetar la consigna de la actividad y utilizar solamente las herramientas permitidas en este trabajo práctico.
-
-Cuando una consigna tenga varios puntos, se mantienen separados para facilitar la lectura. Ejemplo:
-
-# CONSIGNA:
-# a) Definir una variable con los minutos disponibles, en cinco.
-# b) Mientras queden minutos, mostrar el aviso y descontar uno.
-# c) Mostrar, al terminar el bucle, el mensaje de tiempo cumplido.
-# d) Antes de escribir el programa, completar el cuadro de vueltas.
-
-▶️ Ejecución de los programas
-
-Los ejercicios pueden ejecutarse desde la terminal de Visual Studio Code.
-
-Ejemplo:
-
-python ejercicio_I_1.py
-
-Si se está trabajando desde la carpeta principal, también puede indicarse la carpeta:
-
-python Grupo_I/ejercicio_I_1.py
-
-🎯 Objetivo general
-
-El objetivo de este trabajo práctico es comprender el funcionamiento del bucle while, aprender a controlar correctamente sus repeticiones y poder identificar cuándo conviene utilizarlo en lugar de un for.
-
-También se busca desarrollar la capacidad de leer, probar, analizar y corregir código, especialmente en las actividades del Grupo III donde se utiliza Inteligencia Artificial como herramienta de apoyo.
-
-👨‍💻 Mario Cabral — Comisión 11
-🐍 Programación en Python — Trabajo Práctico: Bucle while
