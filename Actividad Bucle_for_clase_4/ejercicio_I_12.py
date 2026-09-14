@@ -7,3 +7,9 @@
 # b) Recorrerlo letra por letra y contar cuántas vocales tiene.
 # c) Armar, en la misma vuelta, una cadena con las letras separadas por un espacio.
 # d) Mostrar la cantidad de vocales y el cartel en mayúsculas.
+#¿Qué imprime este programa? Escribí la salida exacta, sin comillas.
+
+documento = "  40-123-456  "
+limpio = documento.strip().replace("-", "")
+print(len(limpio))
+
